@@ -36,10 +36,6 @@ class server_banner:
             return socks5
         return None
 
-    def html_template(self):
-        html = """
-        <a href="%s">%s\t%s\t%s</a>
-        """
 
     def banner_info(self, ip):
         ftp_port = [2121, 21]  # 这里可以添加你认为目标服务器会开启的FTP端口
