@@ -1,9 +1,10 @@
 # hpscan.py
-一款简单的web服务探测脚本
+一款简单的python版web服务探测脚本
+注意这是python3写的
 
 ## 使用:
-``` python
+``` bash
 pip3 install PySocks
 pip3 install requests
-IPy import IPy
+pip3 install IPy
 ```
