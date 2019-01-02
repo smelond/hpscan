@@ -1,5 +1,5 @@
 # hpscan.py
-一款简单的python版web服务探测脚本,可以快速探测web端口是否开放,获取对应的title,服务信息.
+一款简单的python版web服务探测脚本,可以快速探测web端口是否开放,获取对应的title,服务信息
 
 注意这是python3写的,请使用python3运行
 
